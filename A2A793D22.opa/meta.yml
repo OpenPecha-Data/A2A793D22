@@ -1,0 +1,26 @@
+id: A2A793D22
+title: 'PP: Aṣṭasāhasrikā Prajñāpāramitā'
+type: translation
+pechas:
+- I91A91C8D
+- IB446511A
+- I3F73F9BF
+- I62A0CA1A
+- IA619B4CC
+- I6DEE0701
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 14:54:39.020811
+  last_modified_at: 2023-02-08 14:54:39.020826
+alignment_to_base:
+  I91A91C8D/9225: DD9C
+  IB446511A/98EC: DD9C
+  I3F73F9BF/2244: DD9C
+  I62A0CA1A/0480: DD9C
+  IA619B4CC/898E: DD9C
+  I6DEE0701/8527: DD9C
